@@ -1,0 +1,11 @@
+csc311 <Introduction to Programming>     300 
+csc322      200
+Math114     100
+csc312      150
+eng115      210
+paks101     83
+csc323     300
+math109    200
+eng107     100
+isl101     150
+ 

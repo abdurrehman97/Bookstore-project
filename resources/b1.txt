@@ -1,0 +1,78 @@
+MICB311 <Fundamentals of Microbiology-I> 360 15
+MICB312 <Biochemistry-I> 400 13
+MICB313 <Cell Biology-I> 450 16
+MATH103 <Mathematics> 360 13
+ENG101 <English-I> 300 15
+ISL101 <ISlamic studies> 200 13
+MICB331 <Microbial Genetics> 420 13
+MICB332 <Microbial Taxonomy> 360 12
+MICB333 <Fundamentals of Mycology> 380 15
+STAT103 <Biostatistics> 450 13
+ENG103 <English-III> 360 15
+CSC101 <Computer Applications in Biology> 400 13
+MICB351 <General Immunology> 360 14
+MICB352 <Cell and Tisshe Culture Technology> 340 15
+MICB353 <Microbial Enzyme Technology> 360 15
+MICB354 <Biotechnology> 340 14    
+MICB355 <Agricultural Microbiology> 340 13
+MICB356 <Biosafety and Risk Management> 300 15
+MICB371 <Microbial Biodegeradation and Bioremediation> 340 13
+MICB372 <Genetic Engineering> 340 15 
+MICB373 <Marine and Fresh Water Microbiology> 360 13
+MICB374 <Pharmaceutical Microbiology> 340 14
+MICB375 <Industrial Microbiology> 400 15
+MICB376 <Research Methodology> 350 13
+ENG101 <English-I : Functional English (comp)> 400 13
+ISL101 <Islamic Studies/Ethics (Comp)> 340 14
+MATH103 <Mathematics-I (Comp)> 350 13
+ZOOL311 <BOtany-I/Diversity of Plants (Gen)> 360 14
+CHEM102 <Chemistry-I: Physical Chemistry (Gen) (GEn) CCHemistry/Geo> 460 15
+ZOOL312 <PriciplesofAnimalLife-I (Foundation)> 350 13
+ENG103 <English-III: Technology Wriyingand Presentation Skills (Comp)>9Comp)> 340 13
+CSC101 <Introduction to computer (Comp)> 340 15
+ZOOL331 <Botany-III> 340 15
+CHEM104 <Chemistry-III: Organic> 360 13
+ZOOL332 <Animal Diversity: Invertebrates> 240 15
+GEOG102 <Geography> 200 13
+ZOOL351 <General Biochemistry> 340 13
+ZOOL352 <Cell and molecular biology> 400 13
+ZOOL353 <Animal form & Function0II> 450 14
+ZOOL354 <Animal Behavior> 350 15
+ZOOL371 <Environmental Biology> 400 13
+ZOOL372 <Zoogeography & Palenotology> 340 13
+ZOOL373 <General Microbiology S P> 340 13
+ZOOL374 <Synopsis & Research Methodology> 360 15
+ZOOL375 <Immunology Univ Option> 320 14
+MICB361 <veterinary> 340 13
+MICB362 <Environmental Microbiology> 340 15
+MICB363 <Medical Microbiology> 360 15
+MICB364 <Soil Microbiology> 350 13
+MICB365 <Bioinformatics> 340 15
+MICB366 <Nano Biotechnology> 400 15
+MICB381 <Vaccinology> 340 12
+MICB-82 <Intership "OR" Special Papers> 340 15
+MICB383 <Research/ Thesis "OR" Special Papers> 320 15
+MICB384 <Special paper I> 360 15
+MICB385 <Special Paper II> 400 13
+ENg102 <English-II: Communication Skills> 400 13
+PAKS101 <Pakistan Studies> 200 14
+STAT103 <Biostatistics/ Univ Option> 350 13
+ZOOL321 <Botany_II/Plants Systematics> 340 15
+CHEM103 <Chemistry-II Inorganic> 400 15
+ZOOL322 <Principles of animals Life-II> 350 12
+ENg104 <English-IV> 360 13
+ZOOL341 <Botany-IV> 380 14
+ZOOL342 <AnimalDiversity> 340 15
+ZOOL343 <AnimalForm & Function-I> 400 15
+ZOOL344 <Physiology> 300 12
+ZOOL361 <Biology Techniques> 400 12
+ZOOL362 <Evolution & Principles of Systematics> 360 13
+ZOOL363 <Developmental Biology> 360 15
+ZOOL364 <Genetics> 340 13
+ZOOL365 <Wildlife> 380 13
+ZOOL381 <Bioinformatics> 200 14
+ZOOL382 <Research project> 300 14
+ZOOL383 <Internship> 340 12
+ZOOL384 <Wild Life Parasitology Univ Option> 340 11
+ZOOL385 <Environmental Toxicology Univ Option> 400 15
+

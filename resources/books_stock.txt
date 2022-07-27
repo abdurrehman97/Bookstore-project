@@ -1,0 +1,210 @@
+1-4028-9462-1 ENG101 <English> 340 13 10
+1-4028-9592-5 MICB355 <Agricultural Microbiology> 340 13 10
+1-4028-9491-3 MATH114 <Analytical Geometry> 340 15 13
+1-4028-9522-7 CHEM354 <Analytical/Applied/Bio-Ch> 450 11 18
+1-4028-9541-8 CHEM364 <Analytical/Applied/Bio-Ch> 450 13 11
+1-4028-9555-4 CHEM514 <Analytical/Applied/Bio-Ch> 340 15 25
+1-4028-9567-7 CHEM524 <Analytical/Applied/Bio-Ch> 340 15 11
+1-4028-9615-1 ZOOL354 <Animal Behavior> 350 15 33
+1-4028-9610-5 ZOOL332 <Animal Diversity: Inverte> 240 15 28
+1-4028-9614-9 ZOOL353 <Animal form & Function0II> 450 14 32
+1-4028-9640-8 ZOOL342 <AnimalDiversity> 340 15 32
+1-4028-9641-9 ZOOL343 <AnimalForm & Function-I> 400 15 33
+1-4028-9467-6 MATH113 <Applied Mathematics> 350 11 15
+1-4028-9494-6 Phys341 <Basic Electronics> 340 11 16
+1-4028-9514-8 STAT103 <Bio State> 450 13 10
+1-4028-9532-8 CHEM321 <Biochemistry> 450 12 28
+1-4028-9577-8 MICB312 <Biochemistry-I> 400 13 21
+1-4028-9625-2 MICB365 <Bioinformatics> 340 15 17
+1-4028-9648-7 ZOOL381 <Bioinformatics> 200 14 14
+1-4028-9643-2 ZOOL361 <Biology Techniques> 400 12 35
+1-4028-9492-4 Biol101 <Biology> 350 15 14
+1-4028-9593-6 MICB356 <Biosafety and Risk Managem> 300 15 11
+1-4028-9634-2 STAT103 <Biostatistics/ Univ Option> 350 13 26
+1-4028-9585-7 STAT103 <Biostatistics> 450 13 29
+1-4028-9591-4 MICB354 <Biotechnology> 340 14 35
+1-4028-9635-3 ZOOL321 <Botany_II/Plants Systematics> 340 15 27
+1-4028-9603-7 ZOOL311 <BOtany-I/Diversity of Plants (Gen)> 360 14 21
+1-4028-9511-5 BOT101 <Botany-I> 340 13 33
+1-4028-9608-3 ZOOL331 <Botany-III> 340 15 26
+1-4028-9639-7 ZOOL341 <Botany-IV> 380 14 31
+1-4028-9464-3 Math101 <Calculus-I> 340 12 12
+1-4028-9488-9 MATH102 <Calculus-II> 340 15 10
+1-4028-9613-8 ZOOL352 <Cell and molecular biology> 400 13 31
+1-4028-9589-2 MICB352 <Cell and Tisshe Culture Technology> 340 15 33
+1-4028-9578-9 MICB313 <Cell Biology-I> 450 16 22
+1-4028-9518-3 CHEM333 <Chem-Informatics> 400 15 14
+1-4028-9513-7 CHEM311 <Chemistr-I> 340 11 35
+1-4028-9559-8 CHEM537 <chemistry Informatics> 350 13 29
+1-4028-9468-7 CHEM101 <Chemistry> 280 15 16
+1-4028-9604-8 CHEM102 <Chemistry-I: Physical Chemistry (Ge> 460 15 22
+1-4028-9636-4 CHEM103 <Chemistry-II Inorganic> 400 15 28
+1-4028-9533-9 CHEM322 <Chemistry-II> 340 12 29
+1-4028-9609-4 CHEM104 <Chemistry-III: Organic> 360 13 27
+1-4028-9516-1 CHEM331 <Chemistry-III> 230 14 12
+1-4028-9536-3 CHEM341 <Chemistry-IV> 340 13 32
+1-4028-9517-2 CHEM332 <Chemistry-V> 230 11 13
+1-4028-9537-4 CHEM342 <Chemistry-V> 400 12 33
+1-4028-9484-5 Phys374 <Classical Electrodynamics-I> 350 14 32
+1-4028-9504-7 Phys381 <Classical Electrodynamics-III> 450 12 26
+1-4028-9478-8 Phys354 <Classical Mechanics> 370 12 26
+1-4028-9502-5 Phys365 <Computational Physics-I> 480 13 24
+1-4028-9506-9 Phys383 <Computational Physics-II Optio> 450 13 28
+1-4028-9587-9 CSC101 <Computer Applications in Biology> 400 13 31
+1-4028-9497-9 CSC108 <Computer Science> 340 13 19
+1-4028-9472-2 CSC107 <Computer Science-I> 260 15 20
+1-4028-9510-4 CSC107 <Computer Science-I> 400 13 32
+1-4028-9471-1 Phys331 <Concept of Modern Physics> 360 11 19
+1-4028-9645-4 ZOOL363 <Developmental Biology> 360 15 11
+1-4028-9493-5 MATH108 <Different Equation> 400 14 15
+1-4028-9469-8 MATH107 <Different Equation-I> 400 13 17
+1-4028-9501-4 Phys364 <Digital Electronics> 340 14 23
+1-4028-9489-1 Phys321 <Electricity and Magnetism> 340 12 11
+1-4028-9476-6 Phys352 <Electronic Devices & Circuit> 380 11 24
+1-4028-9530-6 MATH116 <Elementary Math> 340 15 26
+1-4028-9486-7 ENG109 <English Language> 340 14 34
+1-4028-9600-4 ENG101 <English-I : Functional English (comp)> 400 13 18
+1-4028-9508-2 ENG101 <English-I> 260 13 30
+1-4028-9580-2 ENG101 <English-I> 300 15 24
+1-4028-9632-9 ENg102 <English-II: Communication Skills> 400 13 24
+1-4028-9528-4 ENG102 <English-II> 450 12 24
+1-4028-9606-1 ENG103 <English-III: Technology Wriyingand P> 340 13 24
+1-4028-9515-9 ENG103 <English-III> 340 11 11
+1-4028-9586-8 ENG103 <English-III> 360 15 30
+1-4028-9534-1 ENG104 <English-IV> 250 12 30
+1-4028-9638-6 ENg104 <English-IV> 360 13 30
+1-4028-9616-2 ZOOL371 <Environmental Biology> 400 13 34
+1-4028-9526-2 CHEM377 <Environmental Chemistry> 480 15 22
+1-4028-9545-3 CHEM387 <Environmental Chemistry> 450 16 15
+1-4028-9550-8 CHEM387 <Environmental Chemistry> 380 11 20
+1-4028-9622-8 MICB362 <Environmental Microbiology> 340 15 14
+1-4028-9474-4 GEOG103 <Environmental science> 400 13 22
+1-4028-9652-2 ZOOL385 <Environmental Toxicology Univ Option> 400 15 18
+1-4028-9644-3 ZOOL362 <Evolution & Principles of Systematics> 360 13 10
+1-4028-9576-7 MICB311 <Fundamentals of Microbiology-I> 360 15 20
+1-4028-9584-6 MICB333 <Fundamentals of Mycology> 380 15 28
+1-4028-9612-7 ZOOL351 <General Biochemistry> 340 13 30
+1-4028-9588-1 MICB351 <General Immunology> 360 14 32
+1-4028-9618-4 ZOOL373 <General Microbiology S P> 340 13 10
+1-4028-9473-3 Phys332 <General Physics lab> 390 15 21
+1-4028-9595-8 MICB372 <Genetic Engineering> 340 15 13
+1-4028-9646-5 ZOOL364 <Genetics> 340 13 12
+1-4028-9611-6 GEOG102 <Geography> 200 13 29
+1-4028-9620-6 ZOOL375 <Immunology Univ Option> 320 14 12
+1-4028-9598-2 MICB375 <Industrial Microbiology> 400 15 16
+1-4028-9519-4 CHEM351 <Inorganic Chemistry> 340 13 15
+1-4028-9538-5 CHEM361 <Inorganic Chemistry> 450 13 34
+1-4028-9552-1 CHEM511 <Inorganic Chemistry> 450 13 22
+1-4028-9564-4 CHEM521 <Inorganic Chemistry> 560 13 34
+1-4028-9575-6 CHEM548 <Inorganic minor/research> 360 12 19
+1-4028-9650-9 ZOOL383 <Internship> 340 12 16
+1-4028-9628-5 MICB-82 <Intership "OR" Special Papers> 340 15 20
+1-4028-9607-2 CSC101 <Introduction to computer (Comp)> 340 15 25
+1-4028-9535-2 SOCY102 <Introduction to Sociology> 450 11 31
+1-4028-9601-5 ISL101 <Islamic Studies/Ethics (Comp)> 340 14 19
+1-4028-9509-3 ISL101 <Islamic Studies> 400 13 31
+1-4028-9581-3 ISL101 <ISlamic studies> 200 13 25
+1-4028-9463-2 IsL101 <Islamic> 200 13 11
+1-4028-9496-8 MATH109 <Linear Algebra> 400 13 18
+1-4028-9596-9 MICB373 <Marine and Fresh Water Microbio> 360 13 14
+1-4028-9498-1 Phys361 <Mathematical Methods of Physic> 340 11 20
+1-4028-9475-5 Phys351 <Mathematical Methods> 360 12 23
+1-4028-9579-1 MATH103 <Mathematics> 360 13 23
+1-4028-9602-6 MATH103 <Mathematics-I (Comp)> 350 13 20
+1-4028-9465-4 Phys311 <Mechanics> 400 15 13
+1-4028-9623-9 MICB363 <Medical Microbiology> 360 15 15
+1-4028-9594-7 MICB371 <Microbial Biodegeradation and Bio> 340 13 12
+1-4028-9590-3 MICB353 <Microbial Enzyme Technology> 360 15 34
+1-4028-9582-4 MICB331 <Microbial Genetics> 420 13 26
+1-4028-9583-5 MICB332 <Microbial Taxonomy> 360 12 27
+1-4028-9626-3 MICB366 <Nano Biotechnology> 400 15 18
+1-4028-9482-3 Phys372 <Nuclear Physics> 340 14 30
+1-4028-9505-8 Phys382 <Nuclear Physics-II> 340 13 27
+1-4028-9520-5 CHEM352 <Organic Chemistry> 340 13 16
+1-4028-9539-6 CHEM362 <Organic Chemistry> 230 12 35
+1-4028-9553-2 CHEM512 <Organic Chemistry> 360 12 23
+1-4028-9565-5 CHEM522 <Organic Chemistry> 340 13 35
+1-4028-9529-5 PAKS101 <PAK Study> 230 14 25
+1-4028-9487-8 PAKS101 <Pakistan Studies> 340 14 35
+1-4028-9633-1 PAKS101 <Pakistan Studies> 200 14 25
+1-4028-9523-8 CHEM371 <Paper-I> 350 13 19
+1-4028-9542-9 CHEM381 <Paper-I> 340 13 12
+1-4028-9547-5 CHEM382 <Paper-I> 350 12 17
+1-4028-9556-5 CHEm531 <Paper-I> 340 12 26
+1-4028-9561-1 CHEM532 <Paper-I> 240 15 31
+1-4028-9568-8 CHEM541 <Paper-I> 350 12 12
+1-4028-9572-3 CHEM542 <Paper-I> 250 15 16
+1-4028-9524-9 CHEM373 <Paper-II> 230 14 20
+1-4028-9543-1 CHEM383 <Paper-II> 400 16 13
+1-4028-9548-6 CHEM384 <Paper-II> 340 12 18
+1-4028-9557-6 CHEM533 <Paper-II> 340 12 27
+1-4028-9562-2 CHEM534 <Paper-II> 380 14 32
+1-4028-9569-9 CHEM543 <Paper-II> 450 13 13
+1-4028-9573-4 CHEM544 <Paper-II> 350 11 17
+1-4028-9597-1 MICB374 <Pharmaceutical Microbiology> 340 14 15
+1-4028-9521-6 CHEM353 <Physical Chemistry> 340 13 17
+1-4028-9540-7 CHEM363 <Physical Chemistry> 230 16 10
+1-4028-9554-3 CHEM513 <Physical Chemistry> 250 15 24
+1-4028-9566-6 CHEM523 <Physical Chemistry> 340 13 10
+1-4028-9495-7 Phys342 <Physics Lab-II> 230 16 17
+1-4028-9480-1 Phys356 <physics Lab-III> 400 13 28
+1-4028-9503-6 Phys366 <Physics Lab-IV> 450 16 25
+1-4028-9512-6 PHYS101 <Physics> 340 15 34
+1-4028-9642-1 ZOOL344 <Physiology> 300 12 34
+1-4028-9525-1 CHEM375 <Practical> 350 12 21
+1-4028-9544-2 CHEM385 <Practical> 340 12 14
+1-4028-9549-7 CHEM386 <Practical> 250 16 19
+1-4028-9558-7 CHEM535 <Practical> 250 12 28
+1-4028-9563-3 CHEM538 <Practical> 450 17 33
+1-4028-9570-1 CHEM547 <Practical> 350 11 14
+1-4028-9574-5 CHEM546 <Practical> 280 14 18
+1-4028-9605-9 ZOOL312 <PriciplesofAnimalLife> 350 13 23
+1-4028-9637-5 ZOOL322 <Principles of animals> 350 12 29
+1-4028-9470-9 MATH110 <Pure Mathematics> 360 12 18
+1-4028-9479-9 Phys355 <Quantum Mechanics-I> 300 15 27
+1-4028-9499-2 Phys362 <Quantum Mechanics-II> 230 15 21
+1-4028-9483-4 Phys373 <Relativity Cosmology> 450 13 55
+1-4028-9599-3 MICB376 <Research Methodology> 350 13 17
+1-4028-9649-8 ZOOL382 <Research project> 300 14 15
+1-4028-9629-6 MICB383 <Research/ Thesis > 320 15 21
+1-4028-9527-3 CHEM3T <Research/Minor> 340 15 23
+1-4028-9546-4 CHEM3T <Research/Minor> 340 12 16
+1-4028-9551-9 CHEM3T <REsearch/Minor> 360 15 21
+1-4028-9560-9 CHEm538 <Research/Minor> 450 14 30
+1-4028-9571-2 CHEM548 <Research/Minor> 450 13 15
+1-4028-9624-1 MICB364 <Soil Microbiology> 350 13 16
+1-4028-9477-7 Phys353 <Solid State Physics-I> 340 12 25
+1-4028-9500-3 Phys363 <Solid State Physics-II> 500 13 22
+1-4028-9630-7 MICB384 <Special paper I> 360 15 22
+1-4028-9631-8 MICB385 <Special Paper II> 400 13 23
+1-4028-9481-2 Phys371 <Statistical Physics> 340 11 29
+1-4028-9619-5 ZOOL374 <Synopsis & Research Methodology> 360 15 11
+1-4028-9490-2 Phys322 <Thermodynamics> 400 13 12
+1-4028-9485-6 Phys3T <Thesis> 300 15 33
+1-4028-9507-1 Phys3T <Thesis> 380 1 29
+1-4028-9627-4 MICB381 <Vaccinology> 340 12 19
+1-4028-9621-7 MICB361 <veterinary> 340 13 13
+1-4028-9466-5 Phys311 <Waves & Oscillations & Optics> 380 12 14
+1-4028-9651-1 ZOOL384 <Wild Life Parasitology Univ Option> 340 11 17
+1-4028-9647-6 ZOOL365 <Wildlife> 380 13 13
+1-4028-9617-3 ZOOL372 <Zoogeography & Palenotology> 340 13 35
+1-4028-9531-7 ZOOL102 <Zoology-II> 340 13 27
+1-3243232-223 CSC144 <ENLISH> 32 43 65
+1-332324-434-2 CSC1 <yellow> 32 42 21
+212 asdas21 <ad> 312 21 23
+212-2313-2132 ecsadad21 <dsada> 321 21 21
+12-212-324 dasdad2 <aasda> 23 212 31
+1-23321-231 dsad <adda> 31 232 21
+1-sads dsad <asd> 32 323 323
+212 sadas <sa> 221 21 12
+asd sad <dsad> 23 32 32
+1-212212 dadasd <sdadasd> 21 21 21
+1-2122-323 dsada <dadasd> 21 21 32
+212-21231-122 sdas <dsaasd> 21 21 21
+212-2121-213 dsadas <adas> 2 1 12
+1-2212 csc144 <Enlish> 23 4 21
+1-212-4443 esd442 <physics> 32 12 221
+1-2332 hkk342 <arabic> 32 57 99
+   6.72623e-044 0 0
+332 4222 <Mani> 333 321 2
+1-3232313-55323 cscs345 <robotics> 45 76 12
